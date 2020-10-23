@@ -4,7 +4,7 @@ import "./App.css";
 
 function App() {
   return (
-    <div data-test="" className="App">
+    <div data-test="component-app" className="App">
       <header className="App-header">learn react</header>
     </div>
   );
